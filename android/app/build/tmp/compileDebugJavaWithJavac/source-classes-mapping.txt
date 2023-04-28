@@ -1,0 +1,14 @@
+com/orgshooks/MainApplication.java
+ com.orgshooks.MainApplication
+ com.orgshooks.MainApplication$1
+com/orgshooks/ReactNativeFlipper.java
+ com.orgshooks.ReactNativeFlipper
+ com.orgshooks.ReactNativeFlipper$1
+ com.orgshooks.ReactNativeFlipper$2
+ com.orgshooks.ReactNativeFlipper$2$1
+com/orgshooks/BuildConfig.java
+ com.orgshooks.BuildConfig
+com/orgshooks/MainActivity.java
+ com.orgshooks.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
